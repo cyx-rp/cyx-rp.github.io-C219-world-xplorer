@@ -1,0 +1,45 @@
+/* .section__contactUs {
+
+} */
+
+.seperator {
+    border-left: 1px solid white;
+    position: relative;
+    /* left: 50%; */
+    width: 50%;
+}
+
+.contact__email {
+    padding: 30px;
+    color: white;
+}
+
+.contact {
+    display: flex;
+    /* padding: 20px; */
+    justify-content: space-between;
+}
+
+.sns-logo {
+    width: 100px;
+    height: 100px;
+    color: white;
+    padding: 20px;
+}
+
+.social-media-icons {
+    display: flex;
+    flex-direction: column;
+}
+
+.social-media {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-media-handles p {
+    padding: 40px;
+    font-size: 1.5rem;
+}
